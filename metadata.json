@@ -1,0 +1,5 @@
+{
+  "name": "Generatore Protocolli Agopuntura",
+  "description": "Un'applicazione per aiutare i medici agopuntori a generare referti dettagliati e protocolli di trattamento basati sui principi della Medicina Tradizionale Cinese (MTC), utilizzando l'IA per l'analisi e la redazione.",
+  "requestFramePermissions": []
+}
